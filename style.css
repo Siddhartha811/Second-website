@@ -247,7 +247,7 @@ h3,
     inset: 0;
     background:
         linear-gradient(90deg, rgba(12, 10, 8, 0.78), rgba(12, 10, 8, 0.42) 46%, rgba(12, 10, 8, 0.18)),
-        url("assets/hero-art-background.jpg") center / cover;
+        url("hero-art-background.jpg") center / cover;
     transform: scale(1.02);
     animation: heroBreath 12s ease-in-out infinite alternate;
 }
